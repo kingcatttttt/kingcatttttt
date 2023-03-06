@@ -4,10 +4,11 @@
 
 lastest Youtube Videos
 
+## Languages and Tools
+![+jQuery](https://img.shields.io/badge/-<jQuery>-<909090>?style=for-the-badge&logo=appveyor)
+![+Node js](https://img.shields.io/badge/-<Node_js>-909090)?style=for-the-badge&logo=appveyor
+![+AJAX](https://img.shields.io/badge/-<AJAX>-909090?style=for-the-badge&logo=appveyor)
+![+JavaScript](https://img.shields.io/badge/-<JavaScript>-909090?style=for-the-badge&logo=appveyor)
+![+SQL](https://img.shields.io/badge/-<SQL>-909090?style=for-the-badge&logo=appveyor)
 
-![+jQuery](https://img.shields.io/badge/-<jQuery>-<COLOR>?style=for-the-badge&logo=appveyor)
-![+Node js](https://img.shields.io/badge/-<Node js>-#fff)?style=for-the-badge&logo=appveyor
-![+AJAX](https://img.shields.io/badge/-<AJAX>-#fff?style=for-the-badge&logo=appveyor)
 
-
-Languages and Tools
