@@ -5,7 +5,7 @@
 lastest Youtube Videos
 
 ## Languages and Tools
-![+jQuery](https://img.shields.io/badge/-jQuer-<909090>?style=for-the-badge&logo=jQuery)
+![+jQuery](https://img.shields.io/badge/-jQuery-<909090>?style=for-the-badge&logo=jQuery)
 ![+Node_js](https://img.shields.io/badge/-Node_js-909090?style=for-the-badge&logo=Node_js)
 ![+AJAX](https://img.shields.io/badge/-AJAX-909090?style=for-the-badge&logo=AJAX)
 ![+JavaScript](https://img.shields.io/badge/-JavaScript-909090?style=for-the-badge&logo=JavaScript)
@@ -15,10 +15,10 @@ lastest Youtube Videos
 
 ## Folow Me
 
-[![Youtube](https://img.shields.io/badge/-YouTube-090909?
-?style=for-the-badge&logo=YouTube&logoColor=ff0000)(https://www.youtube.com/channel/UCYjQQb34u0c3E2Ez57WUp6g)
+![[+Youtube](https://img.shields.io/badge/-YouTube-090909?
+?style=for-the-badge&logo=YouTube&logoColor=ff0000)](https://www.youtube.com/channel/UCYjQQb34u0c3E2Ez57WUp6g)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?
-?style=for-the-badge&logo=Instagram&logoColor=ff0000)()
+![[+Instagram](https://img.shields.io/badge/-Instagram-090909?
+?style=for-the-badge&logo=Instagram&logoColor=ff0000)]()
 
 
