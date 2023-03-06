@@ -16,9 +16,9 @@ lastest Youtube Videos
 ## Folow Me
 
 [![Youtube](https://img.shields.io/badge/-YouTube-090909?
-?style=for-the-badge&logo=YouTube&logoColor=ff0000)](https://www.youtube.com/channel/UCYjQQb34u0c3E2Ez57WUp6g)
+?style=for-the-badge&logo=YouTube&logoColor=ff0000)(https://www.youtube.com/channel/UCYjQQb34u0c3E2Ez57WUp6g)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?
-?style=for-the-badge&logo=Instagram&logoColor=ff0000)]()
+?style=for-the-badge&logo=Instagram&logoColor=ff0000)()
 
 
