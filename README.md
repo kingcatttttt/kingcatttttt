@@ -1,11 +1,11 @@
-[![Header](https://raw.githubusercontent.com/kingcatttttt/kingcatttttt/11f086441d32937eb3cc6686fd43977a8cc2ccbb/asets/screen.png)](https://www.youtube.com/channel/UCYjQQb34u0c3E2Ez57WUp6g)
+[![Header](https://raw.githubusercontent.com/kingcatttttt/kingcatttttt/226628eae1821a4a6877834f446b88811119757a/asets/screen.png)](https://www.youtube.com/channel/UCYjQQb34u0c3E2Ez57WUp6g)
 
 ## Im a Frontend Engeneer and Youtuber Beginner  
 
 lastest Youtube Videos
 
 ## Languages and Tools
-![+jQuery](https://img.shields.io/badge/-jQuer>-<909090>?style=for-the-badge&logo=jQuery)
+![+jQuery](https://img.shields.io/badge/-jQuer-<909090>?style=for-the-badge&logo=jQuery)
 ![+Node_js](https://img.shields.io/badge/-Node_js-909090?style=for-the-badge&logo=Node_js)
 ![+AJAX](https://img.shields.io/badge/-AJAX-909090?style=for-the-badge&logo=AJAX)
 ![+JavaScript](https://img.shields.io/badge/-JavaScript-909090?style=for-the-badge&logo=JavaScript)
