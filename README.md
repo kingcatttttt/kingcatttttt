@@ -2,7 +2,7 @@
 
 ## Im a Frontend Engeneer and Youtuber Beginner  
 
-## lastest Youtube Videos
+## latest Youtube Videos
 
 # Blog posts
 <!-- YouTube:START -->
