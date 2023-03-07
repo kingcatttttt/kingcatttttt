@@ -3,8 +3,6 @@
 ## Im a Frontend Engeneer and Youtuber Beginner  
 
 ## latest Youtube Videos
-
-# Blog posts
 <!-- YouTube:START -->
 <!-- YouTube:END -->
 
