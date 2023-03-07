@@ -3,7 +3,7 @@
 ## Im a Frontend Engeneer and Youtuber Beginner  
 
 
-### latest youtube ideos
+### Latest YouTube Videos
 <!-- YouTube:START -->
 <!-- YouTube:END -->
 
