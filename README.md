@@ -23,9 +23,9 @@
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingcatttttt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingcatttttt&show_icons=true&theme=radical&locale=en&layout=compact" alt="razenxc" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingcatttttt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcatttttt&show_icons=true&theme=radical&locale=en" alt="razenxc" /></p>
 
 
 
