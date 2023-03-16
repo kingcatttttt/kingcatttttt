@@ -23,9 +23,9 @@
 
 ## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingcatttttt&show_icons=true&theme=radical&locale=en&layout=compact" alt="razenxc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingcatttttt&show_icons=true&theme=transparent&locale=en&layout=compact" alt="kingcatttttt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcatttttt&show_icons=true&theme=radical&locale=en" alt="razenxc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcatttttt&show_icons=true&theme=transparent&locale=en" alt="kingcatttttt" /></p>
 
 
 
