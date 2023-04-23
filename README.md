@@ -7,7 +7,6 @@
 ![+jQuery](https://img.shields.io/badge/-jQuery-<909090>?style=for-the-badge&logo=jQuery)
 ![+с++](https://img.shields.io/badge/-с++-<909090>?style=for-the-badge&logo=jQuery)
 ![+Node_js](https://img.shields.io/badge/-Node_js-909090?style=for-the-badge&logo=Node_js)
-![+AJAX](https://img.shields.io/badge/-AJAX-909090?style=for-the-badge&logo=AJAX)
 ![+JavaScript](https://img.shields.io/badge/-JavaScript-909090?style=for-the-badge&logo=JavaScript)
 ![+SQL](https://img.shields.io/badge/-SQL-909090?style=for-the-badge&logo=SQL)
 ![+HTML](https://img.shields.io/badge/-HTML-909090?style=for-the-badge&logo=HTML)
