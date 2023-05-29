@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/kingcatttttt/kingcatttttt/226628eae1821a4a6877834f446b88811119757a/asets/screen.png)](https://www.youtube.com/channel/UCYjQQb34u0c3E2Ez57WUp6g)
 
-## Im a Frontend Engeneer and Youtuber Beginner  
+## Im a Frontend Engeneer 
 
 
 ## Languages and Tools
